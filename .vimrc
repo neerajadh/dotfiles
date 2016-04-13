@@ -17,15 +17,8 @@ Plugin 'bling/vim-airline'
     "    let g:airline_symbols = {}
     "endif
     "let g:airline_symbols.space = "\ua0"
-Plugin 'tpope/vim-fugitive'
 Plugin 'c9s/gsession.vim'
 Plugin 'rstacruz/sparkup'
-"Plugin 'scrooloose/syntastic'
-"Plugin 'tpope/vim-surround'
-"Plugin 'vim-scripts/Conque-Shell'
-"Plugin 'hsanson/vim-android'
-Plugin 'Townk/vim-autoclose'
-"Plugin 'vim-scripts/TeTrIs.vim'
 
 "Vundle configuration end
 call vundle#end()
